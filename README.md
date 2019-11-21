@@ -1,5 +1,7 @@
 # CT Keyboard Hack
 
+![Alternativer Text](doc/IMG_0995.JPG)
+
 > Starter kit for the seminar "Creative Technologists - Tracing the City" @ University of Applied Sciences Potsdam (Germany) winter semester 2019/2020 by Fabian Morón Zirfas
 
 ## Assignment
@@ -18,6 +20,8 @@
 3. Start hacking
 4. When you are done and enrolled in the classroom, use the classroom to submit your assignment.
 
+
+
 ## Contributing
 
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/FH-Potsdam/dma/issues)
@@ -28,6 +32,10 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 
 - [github/](https://github.com/fabianmoronzirfas)
 - [twitter/](http://twitter.com/fmoronzirfas)
+
+**Jendrik Bradaczek**
+
+- [github/](https://github.com/dISCOeRG0sUM)
 
 ## License
 
