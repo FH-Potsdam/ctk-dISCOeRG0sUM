@@ -1,8 +1,8 @@
 # CT Keyboard Hack
 
-![Alternativer Text](doc/IMG_0995.JPG)
-
 > Starter kit for the seminar "Creative Technologists - Tracing the City" @ University of Applied Sciences Potsdam (Germany) winter semester 2019/2020 by Fabian Morón Zirfas
+
+![Alternativer Text](doc/IMG_0995.JPG)
 
 ## Assignment
 
@@ -19,8 +19,6 @@
 2. Type `npm start` and hit return ↩ to start the reload server.
 3. Start hacking
 4. When you are done and enrolled in the classroom, use the classroom to submit your assignment.
-
-
 
 ## Contributing
 
